@@ -1,4 +1,4 @@
-# My First Monolith
+# Tour of Heroes
 
 * **Objective** - to build an app that helps a staffing agency manage its stable of heroes.
 * **Purpose** - To gain familiarity with building angular applications
