@@ -30,4 +30,4 @@
 * From the root directory of the project, execute the following command from a command line to create a new workspace and initial starter app
     *  `ng new my-app`
 * `add`, `commit`, and `push`, your changes to your remote repository as an initial _checkpoint_ for the project.
-* Continue and complete the Tour of Heroes tutorial by clicking [here](https://angular.io/guide/setup-local#step-2-create-a-workspace-and-initial-application)
+* Continue and complete the Tour of Heroes tutorial by clicking [here](https://angular.io/tutorial)
