@@ -21,9 +21,9 @@
         * `node`
     2. update `node` by executing the following command from a command line
         * `npm install npm@latest -g`
-* If there are still issues with configuration, click [here](https://angular.io/guide/setup-local) to see the full documentation on setting up local environment.
 * Install [Angular.js]() by executing the following command from a command line
-    * `npm install -g @angular/cli`    
+    * `npm install -g @angular/cli`  
+* If there are still issues with configuration, click [here](https://angular.io/guide/setup-local) to see the full documentation on setting up local environment.
 
 
 ## Part 2 - Create a new workspace and initialize the project
